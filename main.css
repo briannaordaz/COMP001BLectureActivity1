@@ -4,12 +4,12 @@ body {
 }
 
 p {
-    color:aliceblue
+    color:white
 }
 
 /*styling using id selector*/
-example-of-id {
-    font-weight: 400px;
+#example-of-id {
+    font-weight: 400;
 }
 
 /* styling using class selector */
@@ -19,7 +19,7 @@ example-of-id {
 
 /* styling using pseudo-class*/
 a:hover {
-    color:orange
+    color:orange;
 }
 
 /* styling using pseudo-element */
